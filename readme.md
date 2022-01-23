@@ -1,4 +1,5 @@
-![](DD.PNG)
+![DD](https://user-images.githubusercontent.com/93094605/150695952-bc7d0413-1807-4a8d-a459-6a32128adfc7.png)
+
  >### Create a versatile Todo app in two parts:
  >  * Item Based Model
  >  * MVC Mode
@@ -13,14 +14,16 @@
 
 
 
+![1](https://user-images.githubusercontent.com/93094605/150695959-99500868-fc55-4d7e-be1d-f54e4d0c83b2.png)
 
-![](1.PNG)
+![2](https://user-images.githubusercontent.com/93094605/150695964-7a1698d1-e23b-412f-aa1c-8eaedc5c4e7f.png)
+![3](https://user-images.githubusercontent.com/93094605/150695967-b686061f-82ca-47b4-8600-58cc4e451ae2.png)
 
-![](2.PNG)
 
-![](3.PNG)
+![I](https://user-images.githubusercontent.com/93094605/150695970-6290d93f-aa13-4e2d-9cbd-8617dccc45bd.png)
 
-![](I.PNG)
+
+
 
 WE START BY:
  ```c++
@@ -237,7 +240,8 @@ void todo::on_pushButton_clicked()
 }
   ```
 
-![](II.PNG)
+![II](https://user-images.githubusercontent.com/93094605/150695984-a953413d-152c-4f27-852f-0602750d3c05.png)
+
 
 >MVC consists of three kinds of objects. The Model is the application object, the View is its scrren presenation, and the Controller define sthe way the user interface reacts to user input.the three main components of this model are:
 
@@ -249,7 +253,8 @@ void todo::on_pushButton_clicked()
 
 
 
-![](C.PNG)
+
+![C](https://user-images.githubusercontent.com/93094605/150695982-e28fb663-a500-4521-b3d3-b7bf84da806d.PNG)
 
 
  ```c++
